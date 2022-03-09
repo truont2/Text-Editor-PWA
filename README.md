@@ -61,6 +61,8 @@ http://localhost:3000/
 ### Video Walkthrough: 
 
 This video shows the functionality of the application
+
+![gif](./assets/texteditor.gif)
 ## Contribute
 
 To contribute, contact me at https://github.com/truont2/ or truont2@gmail.com
